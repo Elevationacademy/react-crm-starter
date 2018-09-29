@@ -24,4 +24,4 @@ Where do you load data in React?
     - Sales By X: `#955196`
     - Sales over time: `#ff6e54`
     - Client Distribution: `#795548`, `#34495e`, `#95a5a6` 
-- Check <a href="http://tobiasahlin.com/spinkit/">this</a> out for simple to implement loaders
+- Check <a href="http://tobiasahlin.com/spinkit/" target="_blank">this</a> out for simple to implement loaders
