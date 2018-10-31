@@ -2,7 +2,7 @@
 
 ## Data
 To load the data into a file, you can use this code:
-<!-- HTML generated using hilite.me --><div style="overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #888888">//use setTimeout to simulate an API call</span>
+<!-- HTML generated using hilite.me --><div style="overflow:auto;width:auto;border:solid gray;border-width:.1em .1em .1em .8em;padding:.2em .6em;"><pre style="margin: 0; line-height: 125%"><span style="color: #888888">//use setTimeout to simulate an API call - you can, of course, do this without the setTimeout, but using setTimeout will simplify your transition to connecting your to your server later on</span>
 setTimeout(() =&gt; {
     <span style="color: #008800; font-weight: bold">  let</span> data = require(&#39;../data.json&#39;)
     <span style="color: #888888">  //populate state with data</span>
